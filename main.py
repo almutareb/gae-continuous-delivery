@@ -20,7 +20,7 @@ def echo(name):
 def html():
     """Returns some custome HTML"""
     return """
-    <title>This is a Hello World Page</title>
+    <title>This is a basic  Hello World Page</title>
     <p>Hello</p>
     <p><b>World</b></p>
     """
